@@ -1,5 +1,2 @@
 # hello-world
-Test
-HOI 
-aklsfhalksfj
-askldfjalj
+This is where the code or code related to guilty gear DB will be stored
